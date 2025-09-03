@@ -1,0 +1,6 @@
+@GCR.API.CustomerAPI_HostAddress = http://localhost:5072
+
+GET {{GCR.API.CustomerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
